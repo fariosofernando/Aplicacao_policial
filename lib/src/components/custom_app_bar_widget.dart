@@ -22,14 +22,14 @@ class CustomAppBarWidget extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    "Welcome to FeatureBank",
+                    "Bemvindo ao Policeapp",
                     style: TextStyle(
                       color: Colors.white.withOpacity(.4),
                       fontSize: 12.5,
                     ),
                   ),
                   Text(
-                    "Vladyslav Zhykhar",
+                    "Arthur Goveias",
                     style: TextStyle(color: Colors.white),
                   ),
                 ],

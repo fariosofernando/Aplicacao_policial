@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   loading_animation_widget: ^1.2.0+4
   mirai_dropdown_menu: ^0.0.6+2
+  expandable: ^5.0.1
 
 dev_dependencies:
   flutter_test:

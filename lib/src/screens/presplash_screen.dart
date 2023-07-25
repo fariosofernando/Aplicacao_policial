@@ -11,10 +11,10 @@ class PresplashScreen extends StatefulWidget {
 }
 
 class _PresplashScreenState extends State<PresplashScreen> {
-  double _animatedHeight = 200;
+  double _animatedHeight = 250;
 
   void setAnimation() async {
-    await Future.delayed(const Duration(milliseconds: 140));
+    await Future.delayed(const Duration(milliseconds: 400));
     setState(() => _animatedHeight = 50);
   }
 
