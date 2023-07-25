@@ -45,10 +45,10 @@ class _HomeScreenState extends State<HomeScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text("Acivate the cashback function", style: TextStyle(color: Colors.blueAccent)),
+                    Text("Ativar função de backup automatico", style: TextStyle(color: Colors.blueAccent)),
                     const SizedBox(height: 10),
                     Text(
-                      "Choose 2 categories forom\nthe list and recome to 3% cabac.",
+                      "Automatize o processo\nde backup de seus dados.",
                       style: TextStyle(color: Colors.white),
                     ),
                   ],
